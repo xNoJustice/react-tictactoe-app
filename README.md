@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-tictactoe-app/blob/bdafa3b261b17837eef8667cfd87742659e42124/tictactoe.gif" alt="" />
 
 # Getting Started with Create React App
 
